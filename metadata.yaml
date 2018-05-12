@@ -1,0 +1,27 @@
+_repo: Patent-Laws-of-the-Republic-of-Hawaiiand-Rules-of-Practice-in-the-Patent-Office_22684
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hawaii
+    gutenberg_agent_id: '25488'
+    url: http://www.gutenberg.org/2009/agents/25488
+description: ''
+gutenberg_issued: '2007-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22684'
+  lccn: 01001097
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Patent laws and legislation -- Hawaii'
+- !lcc 'T'
+title: 'Patent Laws of the Republic of Hawaii
+
+  and Rules of Practice in the Patent Office'
+url: http://www.gutenberg.org/ebooks/22684
