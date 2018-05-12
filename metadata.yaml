@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25488'
     url: http://www.gutenberg.org/2009/agents/25488
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22684#Patent-Laws-of-the-Republic-of-Hawaiiand-Rules-of-Practice-in-the-Patent-Office
 gutenberg_issued: '2007-09-20'
 gutenberg_type: Text
 identifiers:
